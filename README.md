@@ -16,4 +16,4 @@ The notebook ***reproduce_analysis.ipynb*** reproduces the results and figures i
 6. % python -m ipykernel install --user --name=nbgc
 7. % jupyter notebook
 
-The above clones this repository, creates a virtual environment and installs required packages, adds this environment as a jupyter notebook kernel and starts the notebook server. Now navigate to and open ***reproduce_analysis.ipynb***, ensure that the nbgc kernel is active, and run all cells.
+The above clones this repository, creates a virtual environment and installs required packages, adds this environment as a jupyter notebook kernel and starts the notebook server. Next, navigate to and open ***reproduce_analysis.ipynb***, ensure that the nbgc kernel is active, and run all cells.
