@@ -1,6 +1,6 @@
-# nbgc (name-based gender-classification)
+# nbgc (name-based gender classification)
 
-This repository hosts code to replicate and explore the analysis and results in the paper "On name-based gender-classification." The paper can be found [here](https://www.overleaf.com/project/60ba2dd89d76914725831610), data supporting this work [here](https://osf.io/tz38q/), and an associated python package to make name-based gender-classifications in practice [here](https://github.com/ianvanbuskirk/nomquamgender).
+This repository hosts code to replicate and explore the analysis and results in the paper "An Open-Source Cultural Consensus Approach to Name-Based Gender Classification". Data supporting this work can be found [here](https://osf.io/tz38q/) and an associated python package to make name-based gender classifications in practice [here](https://github.com/ianvanbuskirk/nomquamgender).
 
 ---
 
