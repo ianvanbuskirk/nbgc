@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/512889975.svg)](https://zenodo.org/badge/latestdoi/512889975)
+
 # nbgc (name-based gender classification)
 
 This repository hosts code to replicate and explore the analysis and results in the paper "An Open-Source Cultural Consensus Approach to Name-Based Gender Classification". Data supporting this work can be found [here](https://osf.io/tz38q/) and an associated python package to make name-based gender classifications in practice [here](https://github.com/ianvanbuskirk/nomquamgender).
