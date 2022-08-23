@@ -19,3 +19,17 @@ The notebook ***reproduce_analysis.ipynb*** reproduces the results and figures i
 7. % jupyter notebook
 
 The above clones this repository, creates a virtual environment and installs required packages, adds this environment as a jupyter notebook kernel and starts the notebook server. Next, navigate to and open ***reproduce_analysis.ipynb***, ensure that the nbgc kernel is active, and run all cells.
+
+---
+
+To cite this book, please use this bibtex entry:
+
+```
+@article{van2022open,
+  title={An Open-Source Cultural Consensus Approach to Name-Based Gender Classification},
+  author={Van Buskirk, Ian and Clauset, Aaron and Larremore, Daniel B},
+  journal={arXiv preprint arXiv:2208.01714},
+  note = {\url{https://github.com/ianvanbuskirk/nbgc}},
+  year={2022}
+}
+```
